@@ -1,0 +1,42 @@
+[
+    { "id": "Aumentar-01",
+      "titulo": "Aumentar 2.0",
+      "imagen": "./Imagenes/Imagen1.jpg",
+      "categoria": {
+        "nombre": "Aumentar",
+        "id": "aumentar"
+      },
+      "precio": 5000,
+      "descripcion": "Plan de dieta para aumentar la masa muscular, este plan incluye solo dieta."  
+    },
+    { "id": "Aumentar-02",
+    "titulo": "Aumentar 2.1",
+    "imagen": "./Imagenes/Imagen1.jpg",
+    "categoria": {
+      "nombre": "Aumentar",
+      "id": "aumentar"
+      },
+    "precio": 8000,   
+    "descripcion": "Plan de dieta para aumentar la masa muscular, este plan incluye la dieta y una rutina de ejercicios"
+    },
+    { "id": "Bajar-01",
+    "titulo": "Bajar 2.0",
+    "imagen": "./Imagenes/Imagen1.jpg",
+    "categoria": {
+      "nombre": "Bajar",
+      "id": "bajar"
+       },
+    "precio": 5000, 
+    "descripcion": "Plan de dieta para bajar la grasa corporal, este plan incluye solo dieta" 
+    },
+    { "id": "Bajar-02",
+    "titulo": "Bajar 2.1",
+    "imagen": "./Imagenes/Imagen1.jpg",
+    "categoria": {
+      "nombre": "Aumentar",
+      "id": "bajar"
+      },
+    "precio": 8000,    
+    "descripcion": "Plan de dieta para bajar la grasa corporal, este plan incluye la dieta y una rutina de ejercicios"
+    }
+  ]
